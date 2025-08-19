@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p108778-e1636054.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xcom/main"
+    url: "https://https://b2bb0d94dee926.lhr.life/bin/franklin.delivery/arthurquitescit/dxp-powerhouse-universal-editor/main"
     type: "markup"
     suffix: ".html"
 folders:
